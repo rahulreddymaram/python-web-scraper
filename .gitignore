@@ -1,0 +1,7 @@
+.deps/
+.venv/
+tmp/
+__pycache__/
+*.pyc
+scraped_data.csv
+scraped_data.xlsx
