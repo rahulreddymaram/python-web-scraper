@@ -118,7 +118,3 @@ You can adapt this scraper to other public websites by updating:
 - Skips pages that fail after retries
 - Handles missing HTML elements without crashing
 - Adds a configurable delay between page requests to reduce server load
-
-## Portfolio Notes
-
-This project is safe to showcase because it targets a public demo site built for scraping practice. The code structure is modular and can be reused for other public directories, product catalogs, or listing pages with minor selector changes.
