@@ -2,6 +2,8 @@
 
 Production-quality Python web scraper that extracts structured product data from a public website, cleans and deduplicates it, and exports the results to Excel and CSV.
 
+![Project thumbnail](./thumbnail.svg)
+
 ## Overview
 
 This project scrapes product listings from [Books to Scrape](https://books.toscrape.com/), a public demo website designed for scraping practice. It collects product records across multiple pages, normalizes the data, and saves the final output as a clean Excel workbook.
