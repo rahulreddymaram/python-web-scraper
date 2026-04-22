@@ -2,7 +2,7 @@
 
 Production-quality Python web scraper that extracts structured product data from a public website, cleans and deduplicates it, and exports the results to Excel and CSV.
 
-![Project thumbnail](./thumbnail.svg)
+![Project thumbnail](./project_cover.png)
 
 ## Overview
 
